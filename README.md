@@ -1,5 +1,9 @@
 [youtube](https://www.youtube.com/@shortnamesalex)
-
+//
 [steam](https://steamcommunity.com/id/shortnamesalex/)
+//
+[moddb](https://www.moddb.com/members/shortnamesalex)
+//
+[github](https://github.com/shortnamesalex)
 
-This website uses riggraz's no style please as the theme.
+if adam saw this he would've went "woah"
