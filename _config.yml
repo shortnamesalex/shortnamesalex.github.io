@@ -1,1 +1,7 @@
 remote_theme: riggraz/no-style-please
+
+theme_config:
+  appearance: "light"
+  back_home_text: ".." # customize text for homepage link in post layout, what the fuck is this 
+  date_format: "1-12-2024"
+  show_description: false 
