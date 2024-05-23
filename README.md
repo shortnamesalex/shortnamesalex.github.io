@@ -1,4 +1,4 @@
-## 4 maps a day. everyday. i dont know if that counts.
+## drink tea and never have to worry about mapping again i think
 
 [youtube](https://www.youtube.com/@shortnamesalex)
 //
